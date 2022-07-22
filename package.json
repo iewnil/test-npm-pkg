@@ -1,0 +1,14 @@
+{
+  "name": "test-npm-pkg",
+  "version": "1.0.0",
+  "description": "用于测试npm包的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semver": "^7.3.7"
+  }
+}
